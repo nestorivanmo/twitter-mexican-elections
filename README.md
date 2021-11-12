@@ -1,2 +1,2 @@
 # twitter-mexican-elections
-Data streaming techniques to identify Twitter bots during the June 6th Mexican Election
+Data streaming techniques using sentiment analysis on mexican Nuevo Leon's state politicians Twitter replys to identify and measure their popularity and probability of winning the election. 
